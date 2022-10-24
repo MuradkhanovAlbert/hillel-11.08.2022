@@ -1,0 +1,70 @@
+body{
+    font-family: Arial;
+    font-size: 30px;
+    background-color: lawngreen;   
+}
+
+#header{
+	background-image: url(../img/header.jpg);
+	background-size: cover;
+	font-family: Monotype Corsiva;
+    font-size: 70px;
+    font-weight: normal;   
+    text-align:center;
+    color: lawngreen;
+   	-webkit-text-stroke-width: 0.1px;
+   	-webkit-text-stroke-color: darkgreen;
+}
+
+#about{
+ border: 4px double green;
+}
+
+#zmist h3{
+	font-family: Monotype Corsiva;
+}
+
+#zmist{
+	overflow:auto;
+	float:left;
+	padding-right: 20px;
+}
+
+#content{
+	overflow:auto;
+	border: 4px double green;
+}
+
+.info h2{
+	padding-left: 30px;
+	font-family: Monotype Corsiva;
+}
+
+.info p{
+	padding: 10px;
+	text-align: justify;
+}
+
+#galery img{
+	height: 200px;
+}
+
+#galery h2{
+	display: flex;
+   	justify-content: center;
+    align-items: center;
+    font-family: Monotype Corsiva;
+}
+
+#galery h3{
+	font-family: Monotype Corsiva;
+	font-weight: normal;
+}
+
+#map h2{
+	display: flex;
+   	justify-content: center;
+    align-items: center;
+    font-family: Monotype Corsiva;
+}
+
