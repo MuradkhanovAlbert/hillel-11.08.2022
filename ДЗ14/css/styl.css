@@ -1,0 +1,27 @@
+p{
+	background-color: #ccffff;
+}
+
+ol {
+	background-image: url("https://odessa.travel/images/styles/img-800/public/odessa-img-3513348_0.jpg?itok=l8Ojku5t");
+	background-size: cover;
+}
+
+#DZtect{
+		background-color: #FFA500;
+
+}
+
+#DZtect1{
+		background-color: #3CB371;
+
+}
+
+.example{
+	background-color: 	#778899;
+
+}
+
+ul li:nth-child(odd){
+	background-color: 	#9370DB;
+}
