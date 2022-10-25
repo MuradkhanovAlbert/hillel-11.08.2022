@@ -1,0 +1,35 @@
+body {	
+	background-color: palegoldenrod;
+}
+
+h2 {
+	text-align: center;
+	font-style: italic;
+}
+
+div {
+	font-family: cursive;
+	font-size: 18px;
+}
+
+ol li {
+	font-weight: bold;
+}
+
+.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 6px solid #af2900;
+}
+
+div p {
+	text-align: justify;
+	line-height: 1.4;
+	text-indent: 20px;
+}
+
+div a {
+	font-weight: bold;
+	font-style: italic;
+}
