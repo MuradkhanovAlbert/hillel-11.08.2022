@@ -1,0 +1,38 @@
+
+body {
+    background-image:url(фотошпалери.jpg);background-size: cover;
+}
+h1 {
+    color: blue;
+
+ }
+h2 {
+	color: gray;
+
+}
+p {
+    background-color: lightpink;
+}
+p {
+	font-family: arial; font-size: 120%;
+}
+
+ol {
+	color: red; border: 1px solid black; margin: 50px
+}
+
+.class1 {
+	font-family: times new roman;
+	font-size: 140%;
+}
+.class2 {
+	color: yellowgreen;
+}
+.class3 {
+	text-decoration: underline;
+	color: seagreen;
+	font-family: arial black;
+}
+ul {
+		border: 3px solid black; margin: 25px
+	}
