@@ -1,0 +1,47 @@
+html {
+  background-image: url(https://i.postimg.cc/Jzd3Kby9/rob-laughter-WW1js-In-Xgw-M-unsplash-1.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+* {
+    font-size: 110%;
+    font-family: Garamond, sans-serif ;
+}
+
+h1, h2, h3 {
+    background-color: lightskyblue; color: royalblue;
+}
+
+
+i, p, ol {
+    background-color: white; color: royalblue; opacity: 85%;
+}
+
+
+img {
+   border: 15px solid lightgoldenrodyellow;
+}
+
+.article {
+  background-color: lightgrey;
+  opacity: 85%;
+  width: max;
+  border: 10px golden;
+  padding: 50px;
+  margin: 20px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 100%;
+  padding: 20px;
+}
