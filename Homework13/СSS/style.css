@@ -1,0 +1,18 @@
+
+ul {
+    color: royalblue; 
+    background: #000000; 
+   }
+    body {
+    background: #000000 url(images/6.jpg);
+    color: #FF0000; 
+   }
+     p {
+    border: 1px solid red;
+    padding: 10px;
+   }
+   .pic {
+    padding: 30px; 
+    background: #DAA520; 
+    border: 2px solid #666; 
+   }
