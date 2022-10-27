@@ -1,0 +1,19 @@
+
+body {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/be/61-220-5012_Dzhuryn_Waterfall_1_RB.jpg");
+	background-size: cover;
+}
+h1 {
+	font-size: 20px;
+	color: brown;
+}
+
+p{
+	font-size: 20px;
+	color: blue;
+}
+ .class1 {
+ 	font-size: 20px;
+ 	color: darkslateblue;
+
+ }
